@@ -1,0 +1,32 @@
+{
+  "expo": {
+    "name": "Flexi_Path_TFG",
+    "slug": "Flexi_Path_TFG",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/flexi_path_logo.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/flexi_path_logo.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#282828"
+    },
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.david_garciaam.flexipath"
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/flexi_path_logo.png",
+        "backgroundColor": "#282828"
+      },
+      "package": "com.david_garciaam.Flexi_Path_TFG",
+      "versionCode": 1.0
+    },
+    "extra": {
+      "eas": {
+        "projectId": "501b40d3-bd07-4fbf-8507-e8dfe64031da"
+      }
+    }
+  }
+}
